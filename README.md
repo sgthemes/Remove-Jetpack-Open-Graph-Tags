@@ -6,3 +6,5 @@ Jetpack plugin for WordPress auto generate OpenGraph tags by default with no set
 
 ##Uninstall
 Deactivate through the 'Plugins' menu in WordPress
+
+Support: [http://sgthemes.com/remove-jetpack-opengraph-tags/](http://sgthemes.com/remove-jetpack-opengraph-tags/)
